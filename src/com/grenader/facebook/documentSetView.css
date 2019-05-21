@@ -1,0 +1,84 @@
+
+.set-author {
+    margin-left: 40px;
+}
+
+#scriptWPQ5 table.ms-listviewtable td, #scriptWPQ2 table.ms-listviewtable td {
+    padding: 15px;
+    font-size: 160%;
+    border-bottom: #c8c8c8 1px solid;
+    color: #004a7c;
+}
+
+#scriptWPQ5 table.ms-listviewtable tr:last-child td, #scriptWPQ2 table.ms-listviewtable tr:last-child td {
+    border-bottom: none;
+}
+
+#scriptWPQ5 table.ms-listviewtable td div a.ms-listlink, #scriptWPQ2 table.ms-listviewtable td div a.ms-listlink,
+#scriptWPQ5 table.ms-listviewtable td.ms-cellstyle div a.ms-listlink, #scriptWPQ2 table.ms-listviewtable td.ms-cellstyle  div a.ms-listlink {
+    color: #004a7c !important;
+}
+
+
+#scriptWPQ5 table.ms-listviewtable td.ms-vb-user, #scriptWPQ5 table.ms-listviewtable td.ms-vb2,
+#scriptWPQ2 table.ms-listviewtable td.ms-vb-user, #scriptWPQ2 table.ms-listviewtable td.ms-vb2 {
+    font-size: 120%;
+}
+
+.set-fileDiv {
+    /*width: 60%;*/
+    /*float: right;*/
+    padding-right: 2%;
+}
+
+.set-title {
+    font-size: 220%;
+    color: #c8c8c8;
+    margin-bottom: 3%;
+}
+
+#set-top-part {
+    width: 25%;
+    float: left;
+    padding-left: 4%;
+}
+
+#set-top-part h2 {
+    font-size: 250%;
+    color: #004a7c;
+}
+
+.set-main-part {
+    width: 65%;
+    float: right;
+    border-left: #c8c8c8 2px solid;
+    padding-left: 3%;
+}
+
+#WebPartWPQ3 #idDocSetPropertiesWebPart div {
+    white-space: pre-wrap;
+    color: #004a7c;
+    padding-top: 4%;
+    font-size: 120%;
+    line-height: 160%;
+}
+
+/*   All files page */
+#MSOZoneCell_WebPartWPQ2 .set-fileDiv {
+       width: 65%;
+       float: right;
+       padding-right: 2%;
+}
+
+#scriptWPQ2 .ms-listviewtable {
+    width: 100%;
+}
+
+#scriptWPQ2 .ms-listviewtable td.ms-vb2, #scriptWPQ5 .ms-listviewtable td.ms-vb2,
+#scriptWPQ2 .ms-listviewtable td.ms-vb-title, #scriptWPQ5 .ms-listviewtable td.ms-vb-title
+{
+    vertical-align: middle;
+}
+
+
+
